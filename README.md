@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Приложение React
+## Реализовано подключение по API к сайту unsplash.com. Выводит по запросу 10 фотографий
+
+## ![scrin](https://i.imgur.com/ERZqUmJ.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
